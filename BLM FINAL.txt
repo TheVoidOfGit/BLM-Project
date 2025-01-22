@@ -1,0 +1,180 @@
+<!doc type html>
+<html>
+    <head>
+<style>
+
+#Title {
+  height:100px;
+  background-color:#105090;
+  font-size: 80px;
+}
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 33.33%;
+  padding: 100px;
+}
+.fox {
+  float: left;
+  width: 100%;
+  padding: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+    <title>African American Inventors</title>
+    </head>
+    <Body bgcolor="105090" text="33cc33">
+    <body>
+<div id="Title">
+<center><marquee behavior="alternate" direction="up" height="80"><center>African American Inventors</marquee>
+</div>
+<div class="clearfix">
+  <div class="fox">
+  <h2>
+<p><center> Did you know that many of the devices we use today were made by brilliant inventors but some of the best inventions were made by african american inventors, 
+so in this website I am going to talk to you about african american inventors, 
+starting with</p></h2>
+  </div>
+<div class="clearfix">
+  <div class="fox">
+<p><h1><center>Thomas L. Jennings</h1></p></div>
+<div class="clearfix">
+  <div class="box">
+  <center><img src="Thomas.JPG" alt="Thomas" style="float:left;width:592px;height:698px; padding: 1px;">
+  </div>
+  <div class="box">
+  <center><p><h2>Thomas L. Jennings
+ invented a new way to dry-clean clothes in 1821.
+ Even though people argued that slaves weren't allowed to own a patent for their inventions,
+ Thomas was born a free man and became the first African American patent holder in the United States and was able to gain his inventions rights and profit from it.</h2></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0T92axHq5c" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+  <div class="box">
+  <center><img src="invention.jpg" alt="Thomas" style="float:left;width:296px;height:349px; padding: 1px;">
+  </div>
+
+<div class="clearfix">
+  <div class="fox">
+  <h2>
+<p><center>Thomas L. Jennings helped us by finding a new and better way to clean clothes but this next inventor 
+created something that saves thousands of lives and he is</p></h2>
+  </div>
+<div class="clearfix">
+  <div class="fox">
+<p><h1><center>Charles Drew</h1></p></div>
+<div class="clearfix">
+  <div class="box">
+  <center><img src="Charles.jpg" alt="Charles" style="float:left;width:531px;height:531px; padding: 1px;">
+  </div>
+  <div class="box">
+  <center><p><h2>Charles Drew was an African-American physician known for his work in blood plasma preservation.
+ Blood plasma helps boost the a patient's blood volume,
+ which can prevent shock, and can help treat blood clotting, so Drew's research into the storage,
+ processing, and shipment of blood plasma helped save the lives of hundreds of people during World War II, 
+and still after all this time it continues to save lives today. In 1941, Drew became the first director 
+of the American Red Cross Blood Bank in New York. </h2></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zx_ZCp8_ibs" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen></iframe></div>
+<div class="box">
+  <center><img src="plasma.jpg" alt="Thomas invention" style="float:left;width:267px;height:388px; padding: 1px;">
+  </div>
+
+
+
+<div class="clearfix">
+  <div class="fox">
+  <h2>
+<p><center>Charles helped save lives by making blood plasma more accessible and the next inventor also helps save live and he is</p></h2>
+  </div>
+
+<div class="clearfix">
+  <div class="fox">
+<p><h1><center>Garret Morgan</h1></p></div>
+<div class="clearfix">
+  <div class="box">
+  <center><img src="Garret Morgan.png" alt="Charles" style="float:left;width:547px;height:547px; padding: 1px;">
+</div>
+<div class="clearfix">
+  <div class="box">
+ <center><p><h2>Garret Morgan was born in Kentucky in 1877 and was the first black man in Cleveland to own a car. When he was just 14 years old, he moved north to Ohio. Morgan worked on his mechanical skills and Then, in 1923,
+He got the idea to add a third light as a warning instead of just having “Stop” and “Go.”He got the idea after he witnessed an accident at a corner, and got the idea:
+ If he designed an automated signal with an interim “warning” position, 
+then it would help prepare people to slow to a stop rather then a sudden stop. Unfortunatly now people use it as a race to see if they can beat the yellow light.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lkENnAN58EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
+web-share" allowfullscreen></iframe>
+ </h2></p></div>
+<div class="clearfix">
+  <div class="box">
+  <center><img src="Garrey morgan invent.jpg" alt="Charles">
+</div>
+</div>
+
+
+<div class="clearfix">
+  <div class="fox">
+  <h2>
+<p><center>We should be thankful for all of these inventors for making our lives easier by creating inventions that prevent injuries and create convenience. All of the infromation about these iventors were gathered from the link below!</p></h2>
+  </div>
+
+
+<div class="clearfix">
+  <div class="fox">
+<p><h1><center>CITATIONS</h1></p></div>
+<style>
+a:link {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<p><a href="https://education.nationalgeographic.org/resource/african-american-inventors-18th-century">“African-American Inventors of the 18th Century.” National Geographic Society</a> </p>
+<p><a href="https://kreolmagazine.com/culture/history-and-culture/thomas-l-jennings-tradesman-and-abolitionist/">“Editor. “International Magazine Kreol.” International Magazine Kreol, 23 July 2021, </a> </p>
+<p><a href="https://www.invent.org/inductees/charles-richard-drew#:~:text=NIHF%20Inductee%20Charles%20Drew%2C%20Inventor%20of%20Blood%20Plasma">““NIHF Inductee Charles Drew, Inventor of Blood Plasma.” NIHF Inductee Charles Drew, Inventor of Blood Plasma, </a></p> 
+<p><a href="https://www.blackpast.org/african-american-history/bailey-leonard-c-1825-1918/#:~:text=Among%20these%20were%20a%20device,fame%20in%20the%20present%20day
+"> Sgambelluri, contributed by: Sabrianna. “Leonard C. Bailey (1825-1918) •.” •, 28 Feb. 2021, </a> </p>
+<p><a href="https://www.ipoef.org/thomas-l-jennings/
+"> “Thomas L. Jennings, First African American to Be Granted a Patent.” IPO Education Foundation, </a> </p>
+<p><a href="https://www.youtube.com/watch?v=lkENnAN58EM
+"> “Saving the Day: Garrett Morgan's Life-Changing Invention of the Traffic Signal.” YouTube, YouTube, 11 Jan. 2022,  </a> </p>
+<p><a href="https://www.youtube.com/embed/b0T92axHq5c.
+"> “YouTube, YouTube   </a> </p>
+<p><a href="https://www.youtube.com/embed/zx_ZCp8_ibs. 
+"> YouTube, YouTube,    </a> </p>
+
+</body>
+<footer><h1><center>Copyright 2023, Created by Aeson Overman, Semester 2 Web Design
+Class A4, January 20, 2023 </h1>
+</footer>
+</html>
